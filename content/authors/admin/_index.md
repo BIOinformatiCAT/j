@@ -20,7 +20,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Machine Learning
 - Bacterial Genomics
+- Molecular Ecology
 - Computational Biology
+- Software development
 
 # Education to show in About widget
 education:
