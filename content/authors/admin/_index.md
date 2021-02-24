@@ -72,9 +72,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lala is a master student in Bioinformatics at Institute of Biological Sciences. His research interests include Machine Learning for biological issues and development of software.
 
-Lala is a master student in Bioinformatics at Institute of Biological Sciences. His research interests include Machine Learning for biological issues and development of software. His background is related to Hidrobiology (aquatic organisms) and Fisheries, marine biodiversity, ecology with experience in molecular biology techniques and computer programming.    
+His background is related to Hidrobiology (aquatic organisms) and Fisheries, marine biodiversity, ecology with experience in molecular biology techniques and computer programming.    
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
