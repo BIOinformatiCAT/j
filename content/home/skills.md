@@ -28,7 +28,7 @@ feature:
   icon: linux
   icon_pack: fab
   name: UNIX/LINUX
-- description: 90%
+- description: 100%
   icon: :dna:
   icon_pack: emoji
   name: Molecular Biology techniques
