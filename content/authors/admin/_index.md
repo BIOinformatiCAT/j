@@ -6,34 +6,34 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master student in Bioinformatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Federal University of Minas Gerais
+  url: https://ufmg.br/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Bacterial Genomics
+- Computational Biology
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+    year: 2022
+  - course: MSc(c) in Bioinformatics 
+    institution: Federal University of Minas Gerais
+    year: 2019
+  - course: BSc in Biological Sciences
     institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
