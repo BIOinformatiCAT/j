@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-Lala is a master student in Bioinformatics at Institute of Biological Sciences. His research interests include Machine Learning for biological issues and development of software.
+Lala is a master student in Bioinformatics at Institute of Biological Sciences. His research interests include Machine Learning for biological topics and development of software. Currently, he works with Bacterial Genomics and bioinformatic tools. 
 
 His background is related to Hidrobiology (aquatic organisms) and Fisheries, marine biodiversity, ecology with experience in molecular biology techniques and computer programming.    
 
